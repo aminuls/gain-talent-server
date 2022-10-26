@@ -1,0 +1,83 @@
+[
+   {
+      "category": "JavaScript",
+      "course_name": "React",
+      "title": "React JS Web Development - The Essentials Bootcamp",
+      "banner": "images/react.jpg",
+      "author": "Jhankar Mahbub",
+      "description": "Learn React from the ground up to make dynamic websites (includes Context, Hooks, Reducers, Routing, Auth, Databases)",
+      "class_quantity": "57"
+   },
+   {
+      "category": "JavaScript",
+      "course_name": "Vue",
+      "title": "Vue JS Essentials with Vuex and Vue Router",
+      "banner": "images/vue.jpg",
+      "author": "Free Code Camp",
+      "description": "Learn VueJS and build a complete project using Vue, Vuex, TypeScript, TailwindCSS, and more. Beginners welcome!",
+      "class_quantity": "45"
+   },
+   {
+      "category": "PHP",
+      "course_name": "PHP",
+      "title": "PHP for Beginners - Become a PHP Master - CMS Project",
+      "banner": "images/php.jpg",
+      "author": "Yahoo Baba",
+      "description": "PHP for Beginners: learn everything you need to become a professional PHP developer with practical exercises & projects.",
+      "class_quantity": "261"
+   },
+   {
+      "category": "PHP",
+      "course_name": "Laravel",
+      "title": "PHP with Laravel for beginners - Become a Master in Laravel",
+      "banner": "images/laravel.jpg",
+      "author": "Rabbil Hasan",
+      "description": "Learn to master Laravel to make advanced applications like the real CMS app we build on this course",
+      "class_quantity": "80"
+   },
+   {
+      "category": "Graphics Design",
+      "course_name": "PhotoShop",
+      "title": "Adobe Photoshop CC – Essentials Training Course",
+      "banner": "images/photoshop.jpg",
+      "author": "Envato Tuts+",
+      "description": "This Adobe Photoshop Essentials course will teach you Photoshop Retouching as well as Photoshop for graphic design.",
+      "class_quantity": "35"
+   },
+   {
+      "category": "Storage & security",
+      "course_name": "Cyber Security",
+      "title": "The Absolute Beginners Guide to Cyber Security 2022",
+      "banner": "images/cyber.jpg",
+      "author": "Neso Academy",
+      "description": "Learn Cyber Security concepts such as hacking, malware, firewalls, worms, phishing, encryption, biometrics, BYOD & more",
+      "class_quantity": "57"
+   },
+   {
+      "category": "Graphics Design",
+      "course_name": "Lightroom",
+      "title": "Adobe Lightroom CC Photo Editing: Your Lightroom Masterclass",
+      "banner": "images/lightroom.jpg",
+      "author": "Envato Tuts+",
+      "description": "Learn how to make your photos look amazing with this Adobe Lightroom Classic CC and Lightroom CC photo editing course.",
+      "class_quantity": "23"
+   },
+   {
+      "category": "Storage & security",
+      "course_name": "MongoDB",
+      "title": "MongoDB - The Complete Developer's Guide 2022",
+      "banner": "images/mongo.jpg",
+      "author": "Thapa Technical",
+      "description": "Master MongoDB Development for Web & Mobile Apps. CRUD Operations, Indexes, Aggregation Framework - All about MongoDB!",
+      "class_quantity": "47"
+   },
+   {
+      "category": "Storage & security",
+      "course_name": "MySQL",
+      "title": "SQL for Beginners: Learn SQL using MySQL and Database Design",
+      "banner": "images/mysql.jpg",
+      "author": "Yahoo Baba",
+      "description": "Understand SQL using the MySQL database. Learn Database Design and Data Analysis with Normalization and Relationships",
+      "class_quantity": "38"
+   }
+]

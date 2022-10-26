@@ -1,7 +1,22 @@
 
 {
    "package_name": ["Free", "Standard", "Premium"],
-   "services": [
+   "package_free": [
+      "Get Access to All Videos",
+      "Get Access on Quiz",
+      "Community Common Group Access",
+      "Problem Solving Team"
+   ],
+   "package_standard":[
+      "Get Access to All Videos",
+      "Get Access on Quiz",
+      "Get Access to Participating an Exam",
+      "Taking Assignment Access",
+      "Community Common Group Access",
+      "Special Privet Group Access",
+      "24/7 Live Support"
+   ],
+   "package_premium":[
       "Get Access to All Videos",
       "Get Access on Quiz",
       "Get Access to Participating an Exam",

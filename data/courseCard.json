@@ -1,6 +1,8 @@
 [
    {
+      "id": "01",
       "category": "JavaScript",
+      "popular": true,
       "course_name": "React",
       "title": "React JS Web Development - The Essentials Bootcamp",
       "banner": "images/react.jpg",
@@ -9,7 +11,9 @@
       "class_quantity": "57"
    },
    {
+      "id": "02",
       "category": "JavaScript",
+      "popular": true,
       "course_name": "Vue",
       "title": "Vue JS Essentials with Vuex and Vue Router",
       "banner": "images/vue.jpg",
@@ -18,7 +22,9 @@
       "class_quantity": "45"
    },
    {
+      "id": "03",
       "category": "PHP",
+      "popular": false,
       "course_name": "PHP",
       "title": "PHP for Beginners - Become a PHP Master - CMS Project",
       "banner": "images/php.jpg",
@@ -27,7 +33,9 @@
       "class_quantity": "261"
    },
    {
+      "id": "04",
       "category": "PHP",
+      "popular": true,
       "course_name": "Laravel",
       "title": "PHP with Laravel for beginners - Become a Master in Laravel",
       "banner": "images/laravel.jpg",
@@ -36,7 +44,9 @@
       "class_quantity": "80"
    },
    {
+      "id": "05",
       "category": "Graphics Design",
+      "popular": true,
       "course_name": "PhotoShop",
       "title": "Adobe Photoshop CC – Essentials Training Course",
       "banner": "images/photoshop.jpg",
@@ -45,7 +55,9 @@
       "class_quantity": "35"
    },
    {
+      "id": "06",
       "category": "Storage & security",
+      "popular": false,
       "course_name": "Cyber Security",
       "title": "The Absolute Beginners Guide to Cyber Security 2022",
       "banner": "images/cyber.jpg",
@@ -54,7 +66,9 @@
       "class_quantity": "57"
    },
    {
+      "id": "07",
       "category": "Graphics Design",
+      "popular": false,
       "course_name": "Lightroom",
       "title": "Adobe Lightroom CC Photo Editing: Your Lightroom Masterclass",
       "banner": "images/lightroom.jpg",
@@ -63,7 +77,9 @@
       "class_quantity": "23"
    },
    {
+      "id": "08",
       "category": "Storage & security",
+      "popular": true,
       "course_name": "MongoDB",
       "title": "MongoDB - The Complete Developer's Guide 2022",
       "banner": "images/mongo.jpg",
@@ -72,7 +88,9 @@
       "class_quantity": "47"
    },
    {
+      "id": "09",
       "category": "Storage & security",
+      "popular": true,
       "course_name": "MySQL",
       "title": "SQL for Beginners: Learn SQL using MySQL and Database Design",
       "banner": "images/mysql.jpg",

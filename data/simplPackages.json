@@ -1,30 +1,41 @@
-
 {
-   "package_name": ["Free", "Standard", "Premium"],
+   "packages": [
+      { "package_name": "Free", "price": 0 },
+      { "package_name": "Standard", "price": 29 },
+      { "package_name": "Premium", "price": 39 }
+   ],
    "package_free": [
-      "Get Access to All Videos",
-      "Get Access on Quiz",
-      "Community Common Group Access",
-      "Problem Solving Team"
+      { "option": "Get Access to All Videos", "status": true },
+      { "option": "Get Access on Quiz", "status": true },
+      { "option": "Community Common Group Access", "status": true },
+      { "option": "Problem Solving Team", "status": true },
+      { "option": "Taking Assignment Access", "status": false },
+      { "option": "24/7 Live Support", "status": false },
+      { "option": "Get Access to Participating an Exam", "status": false },
+      { "option": "Special Privet Group Access" },
+      { "option": "Special Guideline Team", "status": false }
    ],
-   "package_standard":[
-      "Get Access to All Videos",
-      "Get Access on Quiz",
-      "Get Access to Participating an Exam",
-      "Taking Assignment Access",
-      "Community Common Group Access",
-      "Special Privet Group Access",
-      "24/7 Live Support"
+   "package_standard": [
+      { "option": "Get Access to All Videos", "status": true },
+      { "option": "Get Access on Quiz", "status": true },
+      { "option": "Community Common Group Access", "status": true },
+      { "option": "Problem Solving Team", "status": true },
+      { "option": "Taking Assignment Access", "status": true },
+      { "option": "24/7 Live Support", "status": true },
+
+      { "option": "Get Access to Participating an Exam", "status": false },
+      { "option": "Special Privet Group Access", "status": false },
+      { "option": "Special Guideline Team", "status": false }
    ],
-   "package_premium":[
-      "Get Access to All Videos",
-      "Get Access on Quiz",
-      "Get Access to Participating an Exam",
-      "Taking Assignment Access",
-      "Community Common Group Access",
-      "Special Privet Group Access",
-      "24/7 Live Support",
-      "Special Guideline Team",
-      "Problem Solving Team"
+   "package_premium": [
+      { "option": "Get Access to All Videos", "status": true },
+      { "option": "Get Access on Quiz", "status": true },
+      { "option": "Community Common Group Access", "status": true },
+      { "option": "Problem Solving Team", "status": true },
+      { "option": "Taking Assignment Access", "status": true },
+      { "option": "24/7 Live Support", "status": true },
+      { "option": "Get Access to Participating an Exam", "status": true },
+      { "option": "Special Privet Group Access", "status": true },
+      { "option": "Special Guideline Team", "status": true }
    ]
 }

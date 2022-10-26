@@ -15,6 +15,11 @@ app.get("/classes", (req, res)=>{
    res.send(classes);
 })
 
+app.get("/popular", (req, res)=>{
+   const popular = classes.filter(p=>p.popular === true)
+   res.send(popular);
+})
+
 app.get("/package", (req, res)=>{
    res.send(simplePackage);
 })
